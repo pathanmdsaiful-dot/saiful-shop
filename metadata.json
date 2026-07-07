@@ -1,0 +1,6 @@
+{
+  "name": "PharmaShip",
+  "description": "Professional Medicine & Pharmacy Wholesale E-commerce Platform with complete customer ordering and administrative dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
